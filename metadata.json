@@ -1,0 +1,5 @@
+{
+  "name": "MoodSync",
+  "description": "A secure web-based mood and medication tracking platform.",
+  "requestFramePermissions": ["notifications"]
+}
